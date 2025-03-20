@@ -15,7 +15,7 @@ Swagger(app)
 
 
 client = OpenAI(
-    api_key="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"
+    api_key=""
 )
 
 
